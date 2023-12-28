@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Páginal personal",
+    "section": "",
+    "text": "Sobre mí\nEn el marco de la convocatoria a Proyectos de Asistencia Estadística del Instituto de Cálculo (IC), se propuso la creación de un repositorio curado de datasets para ser utilizados en la enseñanza de la Estadística y la Ciencia de Datos. El objetivo es proporcionar a la comunidad de docentes del IC, y de otros centros universitarios, una fuente centralizada de datos abiertos que cubra una amplia variedad de temas y áreas de aplicación.\nLos datasets fueron revisados para asegurar que sean apropiados para su uso en cursos que dicta el IC, y en los capítulos que siguen se proporcionan descripciones detalladas para cada uno, así como breves sugerencias de uso reproducible. En ese sentido, los ejemplos allí desarrollados son simples vehículos para poner a disposición los datos e ilustrar algunas de sus características.\n\nEn las secciones numeradas, cada dataset está preparado para su uso en R y se acompaña con una documentación clara y concisa que incluye un diccionario de variables, la fuente de los datos y un código de muestra para su preparación.\nEn el Anexo, se incluyen datasets documentados sin ejemplos desarrollados, pero con una grilla que sugiere posibles temas afines."
+  },
+  {
+    "objectID": "01_docencia.html",
+    "href": "01_docencia.html",
+    "title": "1  Regresión",
+    "section": "",
+    "text": "Presentamos un ejemplo de modelos de regresión a partir de datos reales de temperatura y uso del sistema de bicicletas Ecobici de la Ciudad Autónoma de Buenos Aires.\n\n\n\nCómo MidJourney imagina que se ilustra este problema bajo el prompt: /imagine an enchanting illustration of Buenos Aires, with the obelisk at the center of the image, and colorful weather elements interacting with a road and a bicycle path.\n\n\nA continuación, se muestran algunos posibles ajustes de regresión que vinculan la cantidad de usuarios del sistema Ecobici por día en función de la temperatura, distinguiendo por usos en días de semana o fin de semana.\n\n\nCódigo\nrm(list=ls())\n# Librerías necesarias\nrequire(tidyverse)\nrequire(ggfortify)\nrequire(plotly)\nrequire(kableExtra)\nrequire(knitr)\nrequire(devtools)\noptions(scipen=999)"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Otras referencias",
+    "section": "",
+    "text": "(2023) Telling Stories with Data, Rohan Alexander. Disponible acá.\n(2022) Regression and Other Stories, Andrew Gelman, Jennifer Hill, Aki Vehtari. Disponible acá.\n(2021) Introduction to Modern Statistics, Mine Çetinkaya-Rundel and Johanna Hardin. Disponible acá."
+  }
+]
