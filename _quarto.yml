@@ -1,0 +1,38 @@
+project:
+  type: book
+
+lang: es
+
+book:
+  title: "Páginal personal"
+  author: "Daniela Parada"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - 01_docencia.qmd
+#  appendices:
+#    - otros-datasets.qmd
+  page-navigation: true
+  favicon: cover.png
+  repo-url: https://daniellaparada.github.io/personal/
+
+crossref:
+  appendix-title: "Apéndice"
+  appendix-delim: ":"
+
+format:
+  html:
+    theme: cosmo
+    page-layout: full
+
+execute:
+  freeze: auto
+
+prefer-html: true
+
+code-fold: true
+code-overflow: wrap
+code-summary: "Ver código"
+
+editor: visual
+
