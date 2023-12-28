@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Sobre mí",
     "section": "",
-    "text": "Sobre mí\nSoy docente en Exactas-UBA y trabajo como Profesional Estadístico en el Instituto de Cálculo-CONICET.\nRealizo tareas de consultoría estadística y participo en proyectos de investigación.\nTambién soy editora de Matemática, especializada en textos escolares y libros técnicos.\n\n\n\n\n\n Back to top"
+    "text": "Sobre mí\nSoy docente en Exactas-UBA y trabajo como Profesional Estadístico en el Instituto de Cálculo-CONICET.\nRealizo tareas de consultoría estadística y participo en proyectos de investigación.\nSoy Profesora de Matemática, Especialista en Estadística y Magíster en Estadística Matemática, y me dedico a estas actividades desde hace más de 12 años. Me formé en didáctica y también soy editora de Matemática, especializada en textos escolares y libros técnicos.\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "01_docencia.html",
-    "href": "01_docencia.html",
+    "objectID": "01_docencia.html#grado",
+    "href": "01_docencia.html#grado",
     "title": "Docencia",
-    "section": "",
-    "text": "Docencia\nBLAH\n\n\n\n\n Back to top"
+    "section": "Grado",
+    "text": "Grado\n\nUBA FCEyN, Jefe de Trabajos Prácticos, Departamento de Matemática\nUDESA, Profesora: Estadística I\nUTDT, Auxiliar: Inferencia Estadística\nUBA FFyB, Ayudante de Primera: Matemática, Bioestadística\nUBA FCE, Ayudante de Primera: Álgebra, Análisis Matemático I\nUBA CBC, Ayudante de Primera y Ayudante de Segunda: Álgebra, Análisis Matemático\nUNSAM EEyN, Jefe de Trabajos Prácticos: Análisis Matemático II\nUNTREF Virtual: Elementos de Estadística y Matemática Financiera\nUMAI, Profesor contratado: Análisis Matemático para biólogos\nUNAJ, Profesor contratado: Curso de Preparación Universitaria\nUMET, Profesora consejera, Departamento Pedagógico\nIUPFA, Coordinadora: Curso de Ingreso a la Vida Universitaria\nINSPT UTN, Profesor: Computación\nIFTS 29, Profesora: Elementos del Análisis Matemático, Estadística y Probabilidades para el Desarrollo de Software"
+  },
+  {
+    "objectID": "01_docencia.html#posgrado",
+    "href": "01_docencia.html#posgrado",
+    "title": "Docencia",
+    "section": "Posgrado",
+    "text": "Posgrado\n\nUBA FCEyN, Profesora: Inferencia Estadística\nUBA FCEyN, Auxiliar: Análisis de Datos Funcionales\nUBA FCEyN, Auxiliar: Análisis Multivariado\nUBA FCEyN, Auxiliar: Análisis de Datos Categóricos\nUBA FCEyN, Auxiliar: Técnicas de Visualización y Reducción de la Dimensión\nUBA FCEyN, Auxiliar: Elementos de Matemática"
   }
 ]
