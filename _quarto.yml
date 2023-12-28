@@ -4,7 +4,6 @@ project:
 website:
   title: "Daniela Parada"
   favicon: logo2.png
-  image: foto.png
   navbar:
     background: light
     collapse-below: lg
