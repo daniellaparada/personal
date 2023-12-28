@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "01_docencia.html",
+    "href": "01_docencia.html",
+    "title": "1  Regresión",
+    "section": "",
+    "text": "Presentamos un ejemplo de modelos de regresión a partir de datos reales de temperatura y uso del sistema de bicicletas Ecobici de la Ciudad Autónoma de Buenos Aires.\n\n\n\nCómo MidJourney imagina que se ilustra este problema bajo el prompt: /imagine an enchanting illustration of Buenos Aires, with the obelisk at the center of the image, and colorful weather elements interacting with a road and a bicycle path.\n\n\nA continuación, se muestran algunos posibles ajustes de regresión que vinculan la cantidad de usuarios del sistema Ecobici por día en función de la temperatura, distinguiendo por usos en días de semana o fin de semana.\n\n\nCódigo\nrm(list=ls())\n# Librerías necesarias\nrequire(tidyverse)\nrequire(ggfortify)\nrequire(plotly)\nrequire(kableExtra)\nrequire(knitr)\nrequire(devtools)\noptions(scipen=999)"
+  }
+]
