@@ -5,7 +5,10 @@ website:
   title: "Daniela Parada"
   navbar:
     background: light
-    search: true
+    collapse-below: lg
+    type: light
+    logo: "logo2.png"
+    #search: true
     left:
       - text: "Sobre mí"
         file: index.qmd
@@ -24,14 +27,14 @@ website:
         icon: chat-square-quote-fill
   sidebar:
     tools:
-      - icon: twitter
-        href: https://twitter.com/DaniellaParada
       - icon: github
         href: https://github.com/daniellaparada
       - icon: linkedin
         href: https://www.linkedin.com/in/danielaparada/
       - icon: envelope-fill
         href: mailto:dparada@dm.uba.ar
+      - icon: twitter
+        href: https://twitter.com/DaniellaParada
   #reader-mode: true
   back-to-top-navigation: true
   page-footer: "Copyright 2023, Daniela Parada" 
