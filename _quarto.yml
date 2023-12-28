@@ -1,38 +1,44 @@
 project:
-  type: book
+  type: website
 
-lang: es
-
-book:
-  title: "Páginal personal"
-  author: "Daniela Parada"
-  date: last-modified
-  chapters:
-    - index.qmd
-    - 01_docencia.qmd
-#  appendices:
-#    - otros-datasets.qmd
-  page-navigation: true
-  favicon: cover.png
-  repo-url: https://daniellaparada.github.io/personal/
-
-crossref:
-  appendix-title: "Apéndice"
-  appendix-delim: ":"
-
+website:
+  title: "Daniela Parada"
+  navbar:
+    background: light
+    search: true
+    left:
+      - text: "Sobre mí"
+        file: index.qmd
+        icon: person-circle
+      - text: "Docencia"
+        file: 01_docencia.qmd
+        icon: easel-fill
+      - text: "Consultoría"
+        file: 01_docencia.qmd
+        icon: clipboard-data-fill
+      - text: "Producciones"
+        file: 01_docencia.qmd
+        icon: file-check-fill
+      - text: "Medios"
+        file: 01_docencia.qmd
+        icon: chat-square-quote-fill
+  sidebar:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/DaniellaParada
+      - icon: github
+        href: https://github.com/daniellaparada
+      - icon: linkedin
+        href: https://www.linkedin.com/in/danielaparada/
+      - icon: envelope-fill
+        href: mailto:dparada@dm.uba.ar
+  #reader-mode: true
+  back-to-top-navigation: true
+  page-footer: "Copyright 2023, Daniela Parada" 
+    #background: light
+    #border: false
 format:
   html:
     theme: cosmo
-    page-layout: full
-
-execute:
-  freeze: auto
-
-prefer-html: true
-
-code-fold: true
-code-overflow: wrap
-code-summary: "Ver código"
-
-editor: visual
-
+    css: styles.css
+    #toc: true

@@ -1,6 +1,6 @@
 Presentamos un ejemplo de modelos de regresión a partir de datos reales de temperatura y uso del sistema de bicicletas Ecobici de la Ciudad Autónoma de Buenos Aires.
 
-# Regresión
+# Docencia
 
 A continuación, se muestran algunos posibles ajustes de regresión que vinculan la cantidad de usuarios del sistema Ecobici por día en función de la temperatura, distinguiendo por usos en días de semana o fin de semana.
 

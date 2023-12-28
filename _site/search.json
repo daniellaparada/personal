@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Sobre mí\nSoy docente en Exactas-UBA y trabajo como Profesional Estadístico en el Instituto de Cálculo-CONICET.\nRealizo tareas de consultoría estadística y participo en proyectos de investigación.\nTambién soy editora de Matemática, especializada en textos escolares y libros técnicos.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "01_docencia.html",
+    "href": "01_docencia.html",
+    "title": "Docencia",
+    "section": "",
+    "text": "Presentamos un ejemplo de modelos de regresión a partir de datos reales de temperatura y uso del sistema de bicicletas Ecobici de la Ciudad Autónoma de Buenos Aires.\n\nDocencia\nA continuación, se muestran algunos posibles ajustes de regresión que vinculan la cantidad de usuarios del sistema Ecobici por día en función de la temperatura, distinguiendo por usos en días de semana o fin de semana.\n\nrm(list=ls())\n# Librerías necesarias\nrequire(tidyverse)\nrequire(ggfortify)\nrequire(plotly)\nrequire(kableExtra)\nrequire(knitr)\nrequire(devtools)\noptions(scipen=999)\n\n\n\n\n\n Back to top"
+  }
+]
