@@ -3,11 +3,13 @@ project:
 
 website:
   title: "Daniela Parada"
+  favicon: logo2.png
+  image: foto.png
   navbar:
     background: light
     collapse-below: lg
     type: light
-    logo: "logo2.png"
+    #logo: "logo2.png"
     #search: true
     left:
       - text: "Sobre mí"
