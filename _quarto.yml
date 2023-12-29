@@ -43,8 +43,6 @@ website:
   #reader-mode: true
   back-to-top-navigation: true
   page-footer: "Copyright 2024, Daniela Parada" 
-    #background: light
-    #border: false
 format:
   html:
     theme: cosmo
