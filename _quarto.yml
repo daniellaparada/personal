@@ -12,25 +12,39 @@ website:
     #search: true
     left:
       - text: "Sobre mí"
-        file: index.qmd
+        file: intro.qmd
         icon: person-circle
       - text: "Docencia"
-        file: 01_docencia.qmd
+        file: docencia.qmd
         icon: easel-fill
       - text: "Cursos y congresos"
-        file: 02_cursosycongresos.qmd
+        file: cursosycongresos.qmd
         icon: mortarboard-fill
       - text: "Profesional"
-        file: 03_consultoria.qmd
+        file: profesional.qmd
         icon: clipboard-data-fill
       - text: "Producciones"
-        file: 04_producciones.qmd
+        file: producciones.qmd
         icon: list-task
       - text: "Medios"
-        file: 05_medios.qmd
+        file: medios.qmd
         icon: mic-fill
-  sidebar: 
-    tools: 
+#  sidebar: 
+#    tools: 
+#      - text: "Contacto"
+#        icon: envelope-fill
+#        href: mailto:dparada@dm.uba.ar
+#      - icon: linkedin
+#        href: https://www.linkedin.com/in/danielaparada/
+#      - icon: github
+#        href: https://github.com/daniellaparada
+#      - icon: twitter
+#        href: https://twitter.com/DaniellaParada
+  #reader-mode: true
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2024, Daniela Parada" 
+    right:
       - text: "Contacto"
         icon: envelope-fill
         href: mailto:dparada@dm.uba.ar
@@ -40,10 +54,7 @@ website:
         href: https://github.com/daniellaparada
       - icon: twitter
         href: https://twitter.com/DaniellaParada
-  #reader-mode: true
-  back-to-top-navigation: true
-  page-footer: 
-    left: "Copyright 2024, Daniela Parada" 
+    background: "#536878"
 format:
   html:
     theme: tango
