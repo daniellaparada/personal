@@ -12,7 +12,7 @@ website:
     #search: true
     left:
       - text: "Sobre mí"
-        file: intro.qmd
+        file: about.qmd
         icon: person-circle
       - text: "Docencia"
         file: docencia.qmd
