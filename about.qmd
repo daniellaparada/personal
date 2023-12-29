@@ -1,11 +1,11 @@
-![](yo4800x1200.jpg)
+![](yo1200x600.jpg)
 
 # Sobre mí {#sobremi .unnumbered}
 
 Soy [docente](docencia.qmd#sec-docencia) en [Exactas-UBA](https://web.dm.uba.ar/index.php/institucional/integrantes/jtp/teacher/parada-dani) y trabajo como Profesional Estadístico en el [Instituto de Cálculo](https://ic.fcen.uba.ar/institucional/integrantes/daniela-parada)-[CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=65539&keywords=daniela%2Bparada&articulos=yes).
 
-Realizo tareas de [consultoría](profesional.qmd#sec-consult) estadística y participo en [proyectos de investigación](profesional.qmd#sec-invest). Estas son algunas de mis [producciones](producciones.qmd), [cursos](cursosycongresos.qmd#sec-cursos),  [charlas y participaciones en congresos](cursosycongresos.qmd#sec-congresos).
+Realizo tareas de [consultoría](profesional.qmd#sec-consult) estadística y participo en [proyectos de investigación](profesional.qmd#sec-invest). Estas son algunas de mis [producciones](producciones.qmd), [cursos](cursosycongresos.qmd#sec-cursos), [charlas y participaciones en congresos](cursosycongresos.qmd#sec-congresos).
 
-Soy Profesora de Matemática, Especialista en Estadística y Magíster en Estadística Matemática, y me dedico a estas actividades desde hace más de 12 años. Me formé en didáctica y también soy [editora de Matemática](profesional.qmd#sec-edit), especializada en textos escolares y libros técnicos. 
+Soy Profesora de Matemática, Especialista en Estadística y Magíster en Estadística Matemática, y me dedico a estas actividades desde hace más de 12 años. Me formé en didáctica y también soy [editora de Matemática](profesional.qmd#sec-edit), especializada en textos escolares y libros técnicos.
 
 ------------------------------------------------------------------------

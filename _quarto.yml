@@ -19,13 +19,13 @@ website:
         icon: easel-fill
       - text: "Cursos y congresos"
         file: cursosycongresos.qmd
-        icon: mortarboard-fill
+        icon: easel3-fill
       - text: "Profesional"
         file: profesional.qmd
-        icon: clipboard-data-fill
+        icon: mortarboard-fill
       - text: "Producciones"
         file: producciones.qmd
-        icon: list-task
+        icon: archive-fill
       - text: "Medios"
         file: medios.qmd
         icon: mic-fill
@@ -47,12 +47,18 @@ website:
     right:
       - text: "Contacto"
         href: mailto:dparada@dm.uba.ar
+      - icon: mortarboard-fill
+        href: https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n7298_Parada
       - icon: linkedin
         href: https://www.linkedin.com/in/danielaparada/
       - icon: github
         href: https://github.com/daniellaparada
+      - icon: discord
+        href: https://discordapp.com/users/daniellaparada
       - icon: twitter
         href: https://twitter.com/DaniellaParada
+      - icon: youtube
+        href: https://www.youtube.com/channel/UC1B6ainhDbswBNYaiY7hrUQ
     background: "#536878"
 format:
   html:
