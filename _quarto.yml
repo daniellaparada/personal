@@ -5,7 +5,7 @@ website:
   title: "Daniela Parada"
   favicon: logo2.png
   navbar:
-    background: light
+    background: "#536878"
     collapse-below: lg
     type: light
     #logo: "logo2.png"
@@ -42,9 +42,10 @@ website:
         href: https://twitter.com/DaniellaParada
   #reader-mode: true
   back-to-top-navigation: true
-  page-footer: "Copyright 2024, Daniela Parada" 
+  page-footer: 
+    left: "Copyright 2024, Daniela Parada" 
 format:
   html:
-    theme: cosmo
+    theme: tango
     css: styles.css
     #toc: true

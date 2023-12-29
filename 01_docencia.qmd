@@ -1,6 +1,6 @@
 ![](doc1200x600.jpg)
 
-# Docencia {#docencia}
+# Docencia {#sec-docencia .unnumbered}
 
 Trabajo como docente universitaria desde 2011, en diferentes cargos, materias y Universidades Nacionales. Fui coordinadora de diferentes cursos de ingreso o de inicio a la vida universitaria en el área de Matemática. 
 

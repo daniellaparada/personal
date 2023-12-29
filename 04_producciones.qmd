@@ -2,8 +2,24 @@
 
 # Artículos
 
+- 2023, Boente, Graciela; Parada, Daniela. *Estimadores robustos para modelos de regresión cuadrática funcional*. [Computational Statistics & Data Analysis, 187. Elsevier.](https://www.sciencedirect.com/science/article/abs/pii/S0167947323001093)
+  
+- 2023, Durán, Guillermo; Durán, Manuel; Farall, Guillermo; García, Jemina; Parada, Daniela; Salgado, Ariel. *Impacto de las campañas de vacunación COVID-19 en Argentina durante 2021: Una cuantificación observacional de la probabilidad de muerte en casos confirmados en la Provincia de Buenos Aires*. [Heliyon Cell Press. Preprint en SSRN.4362128](https://track.authorhub.elsevier.com/?uuid=710ceb13-06be-49e1-8cb3-f1daf5e489b5).
+  
+- 2023, Lau, César; Parada, Daniela. *Modelación matemática en el aula: La velocidad de atletas de alto rendimiento en una carrera de 100 metros*. [RIME, 1(1). ISSN 2039-2338](https://revistarime.ulagos.cl/).
+
+
 # Librerías
+
+- 2023, Solovey, Guillermo; Parada, Daniela. *datosIC: Colección de datasets para su uso en docencia*. [Paquete de R versión 0.0.1](https://github.com/daniellaparada/datosIC).
 
 # Materiales de clase
 
+- 2023, Repositorio curado de datasets para docencia, [IC-datasets-docencia](https://daniellaparada.github.io/IC-datasets-docencia/).
+
+- 2023, Probabilidad y Estadística para Desarrollo de Software, [Notebooks de Python](https://github.com/daniellaparada/PyE-TDS).
+
+- 2023, Data Studio, [Tablero para uso didáctico](https://lookerstudio.google.com/reporting/ebf084ca-ac95-4f1d-b2d5-9395c80a88a3).
+
 # Misceláneos
+
