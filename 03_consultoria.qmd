@@ -1,8 +1,52 @@
 ![](cong1200x600.png)
 
-# Consultoría estadística
+# Proyecto de investigación {#sec-invest .unnumbered}
+
+2021--2024, Proyecto de investigación, MINCyT PICT-2021, Buenos Aires, Asistente de investigación. Inferencia Robusta y Modelización Semiparamétrica en Sistemas Complejos.
+
+# Consultoría estadística {#sec-consult .unnumbered}
+
+- 2022--2023, Consultoría estadística, [MINCyT Desafío ImpaCT.AR N° 30](https://www.argentina.gob.ar/ciencia/sact/impactar/desafio-30), Buenos Aires, Científico de Datos. Utilización de la ciencia de datos como interdisciplina para explotar los datos vinculados a la diabetes para la toma de decisiones y la macrogestión basada en evidencia.
+  
+- 2022--2023, Consultoría estadística, Convenio I+D, IC y Maxiconsumo, Buenos Aires, Científico de Datos. Pronósticos robustos de ventas para implementación en sistema interno de compras.
+
+- 2020--2022, Asesoría estadística, IUPFA Secretaría académica, Buenos Aires, Asesora. Desarrollo de políticas internas para el tratamiento y gestión de datos. Producción de información estadística universitaria.
+
+- 2020--2022, Asistencia estadística, FCEN UBA, Buenos Aires, Colaboradora. [Data Science and Simulation Tools Developed at Public Universities for Supporting Argentina's COVID-19 Response Decision-Making](https://icc.fcen.uba.ar/reconocimiento-internacional-a-investigadores-argentinos-por-el-desarrollo-de-herramientas-computacionales-para-controlar-la-pandemia/).
+
+- 2017--2020, Asesoría estadística, UMET Secretaría Académica, Buenos Aires, Asesora. Gestión de datos y producción de información estadística universitaria.
+
 
 # Consultoría académica
 
-# Editorial
+- 2016--presente, Academic Business Manager, CASIO Latam. Desarrollo de negocios académicos.
+
+- 2023, Investigación y docencia, Instituto de Cálculo, Buenos Aires, Desarrolladora. Creación de un repositorio curado de datasets para docencia para grado y posgrado a partir de datos abiertos de Argentina.
+
+- 2019--2023, Investigación y docencia, Olimpíada Matemática Argentina, Buenos Aires, Asistente invitada. Proyecto de Modelización Matemática: creación del Seminario de Estadística y del Seminario de Simulación Monte Carlo para entrenadores olímpicos y profesores invitados.
+
+- 2023, Experta, UBITS, México. Experta contratada para producción de nano-bits para cursos autoasistidos de _Data Studio_.
+
+- 2018--2020, Asesoría didáctica, UMET Departamento Pedagógico, Buenos Aires, Coordinadora. Creación y conducción del Equipo de Trabajo Docente: _Enseñanza de las Ciencias Exactas en la Facultad de Tecnología_.
+
+
+# Editorial {#sec-edit .unnumbered}
+
+- 2022--2023, Contenidista, DGEGE Ministerio de Educación, Educación a Distancia, Agencia de Aprendizaje a lo Largo de la Vida, Buenos Aires. Especialista en producción de materiales de Matemática. Contenidista del Trayecto de Formación Profesional [Operador Data Analytics](https://agenciadeaprendizaje.bue.edu.ar/curso/operador-en-analisis-de-datos/).
+
+- 2023, Editora, Editorial Santillana, Buenos Aires. Matemática. Proyecto [Matemática ¡Me gusta!](https://santillana.com.uy/matematica-me-gusta-2/).
+
+- 2018--2023, Contenidista Audiovisual, UNTREF Virtual (grado), Buenos Aires. Curso de Inicio de Matemática, Elementos de Matemática y Estadística.
+
+- 2022, Editora, DGEGE Ministerio de Educación, Equipo Editorial de Materiales y Contenidos Digitales. Publicaciones de [_Estudiar y aprender en jornada extendida: Matemática_](https://buenosaires.gob.ar/educacion/docentes/materiales-didacticos/estudiar-y-aprender-en-jornada-extendida).
+
+- 2022--2023, Editora, Editorial Edelvives, Buenos Aires. Matemática y Ciencias Sociales. Proyectos [Insignia](https://www.edelvives.com.ar/sl/proyectos-educativos/p/insignia) y [Picnic](https://www.edelvives.com.ar/sl/proyectos-educativos/p/picnic).
+
+- 2019, Editora y Revisora Técnica, MECCyT, Coordinación de Materiales Educativos, Buenos Aires. [Publicaciones del _Plan Nacional Aprender Matemática_](https://www.argentina.gob.ar/noticias/plan-nacional-aprender-matematica-materiales-gratis-para-descargar).
+
+- 2019, Editora, Editorial Tinta Fresca AGEA, Buenos Aires. Matemática. [Proyecto MateTubers](https://tintafresca.com.ar/mate/).
+
+- 2016--2019, Jefa Editorial, Ediciones SM, Buenos Aires. Jefa del Área de Publicaciones de Matemática. Responsable de los proyectos [Savia](https://sm-argentina.com/serie-savia/) y [Piensa $\infty$](https://www.tiendapiensainfinito.com/).
+
+- 2011--2016, Editora, Alfaomega Grupo Editor Argentino, Buenos Aires. Libros científicos y técnicos.
 
