@@ -6,11 +6,11 @@ website:
   favicon: logo2.png
   navbar:
     background: "#536878"
-    collapse-below: lg
+    #collapse-below: lg
     type: light
     #logo: "logo2.png"
     #search: true
-    left:
+    right:
       - text: "Sobre mí"
         file: about.qmd
         icon: person-circle
@@ -46,7 +46,6 @@ website:
     left: "Copyright 2024, Daniela Parada" 
     right:
       - text: "Contacto"
-        icon: envelope-fill
         href: mailto:dparada@dm.uba.ar
       - icon: linkedin
         href: https://www.linkedin.com/in/danielaparada/
@@ -57,6 +56,6 @@ website:
     background: "#536878"
 format:
   html:
-    theme: tango
+    theme: cosmo
     css: styles.css
     #toc: true
