@@ -1,8 +1,8 @@
-![](foto.png){width="160"}
+![](yo4800x1200.jpg)
 
 # Sobre mí {#sobremi .unnumbered}
 
-Soy [docente]() en [Exactas-UBA](https://web.dm.uba.ar/index.php/institucional/integrantes/jtp/teacher/parada-dani) y trabajo como Profesional Estadístico en el [Instituto de Cálculo](https://ic.fcen.uba.ar/institucional/integrantes/daniela-parada)-[CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=65539&keywords=daniela%2Bparada&articulos=yes).
+Soy [docente](01_docencia.qmd) en [Exactas-UBA](https://web.dm.uba.ar/index.php/institucional/integrantes/jtp/teacher/parada-dani) y trabajo como Profesional Estadístico en el [Instituto de Cálculo](https://ic.fcen.uba.ar/institucional/integrantes/daniela-parada)-[CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=65539&keywords=daniela%2Bparada&articulos=yes).
 
 Realizo tareas de [consultoría]() estadística y participo en [proyectos de investigación]().
 

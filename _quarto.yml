@@ -17,15 +17,18 @@ website:
       - text: "Docencia"
         file: 01_docencia.qmd
         icon: easel-fill
-      - text: "Consultoría"
-        file: 01_docencia.qmd
+      - text: "Cursos y congresos"
+        file: 02_cursosycongresos.qmd
+        icon: mortarboard-fill
+      - text: "Profesional"
+        file: 03_consultoria.qmd
         icon: clipboard-data-fill
       - text: "Producciones"
-        file: 01_docencia.qmd
-        icon: file-check-fill
+        file: 04_producciones.qmd
+        icon: list-task
       - text: "Medios"
-        file: 01_docencia.qmd
-        icon: chat-square-quote-fill
+        file: 05_medios.qmd
+        icon: mic-fill
   sidebar:
     tools:
       - icon: github
@@ -38,7 +41,7 @@ website:
         href: https://twitter.com/DaniellaParada
   #reader-mode: true
   back-to-top-navigation: true
-  page-footer: "Copyright 2023, Daniela Parada" 
+  page-footer: "Copyright 2024, Daniela Parada" 
     #background: light
     #border: false
 format:
