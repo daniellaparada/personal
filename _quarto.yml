@@ -29,14 +29,15 @@ website:
       - text: "Medios"
         file: 05_medios.qmd
         icon: mic-fill
-  sidebar:
-    tools:
-      - icon: github
-        href: https://github.com/daniellaparada
+  sidebar: 
+    tools: 
+      - text: "Contacto"
+        icon: envelope-fill
+        href: mailto:dparada@dm.uba.ar
       - icon: linkedin
         href: https://www.linkedin.com/in/danielaparada/
-      - icon: envelope-fill
-        href: mailto:dparada@dm.uba.ar
+      - icon: github
+        href: https://github.com/daniellaparada
       - icon: twitter
         href: https://twitter.com/DaniellaParada
   #reader-mode: true
