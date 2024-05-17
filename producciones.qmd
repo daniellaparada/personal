@@ -2,11 +2,11 @@
 
 # Artículos
 
-- 2023, Boente, Graciela; Parada, Daniela. *Estimadores robustos para modelos de regresión cuadrática funcional*. [Computational Statistics & Data Analysis, 187. Elsevier.](https://www.sciencedirect.com/science/article/abs/pii/S0167947323001093)
+- 2024, Durán, Guillermo; Durán, Manuel; Farall, Guillermo; García, Jemina; Parada, Daniela; Salgado, Ariel. *Impact of the COVID-19 vaccination campaigns in Argentina during 2021: An observational quantification of the death probability for confirmed cases in Buenos Aires province*. [Heliyon Cell Press, 10(5). Elsevier.](10.1016/j.heliyon.2024.e26310).
   
-- 2023, Durán, Guillermo; Durán, Manuel; Farall, Guillermo; García, Jemina; Parada, Daniela; Salgado, Ariel. *Impacto de las campañas de vacunación COVID-19 en Argentina durante 2021: Una cuantificación observacional de la probabilidad de muerte en casos confirmados en la Provincia de Buenos Aires*. [Heliyon Cell Press. Preprint en SSRN.4362128](https://track.authorhub.elsevier.com/?uuid=710ceb13-06be-49e1-8cb3-f1daf5e489b5).
-  
-- 2023, Lau, César; Parada, Daniela. *Modelación matemática en el aula: La velocidad de atletas de alto rendimiento en una carrera de 100 metros*. [RIME, 1(1). ISSN 2039-2338](https://revistarime.ulagos.cl/).
+- 2024, Lau, César; Parada, Daniela. *Modelación matemática en el aula: La velocidad de atletas de alto rendimiento en una carrera de 100 metros*. [Revista de Investigación en Matemática y su Enseñanza, 1(1). ISSN 2039-2338](https://doi.org/10.32735/S2810-7187202400013183).
+
+- 2023, Boente, Graciela; Parada, Daniela. *Robust estimation for functional quadratic regression models*. [Computational Statistics & Data Analysis, 187. Elsevier.](https://www.sciencedirect.com/science/article/abs/pii/S0167947323001093)
 
 
 # Librerías
@@ -23,3 +23,4 @@
 
 # Misceláneos
 
+- 2024, Introducción a _manim_, [Notebook de Python](https://colab.research.google.com/drive/1oph-XccBGuYVVVIZYkgKDOSPAPFzc0LH).

@@ -2,15 +2,31 @@
 
 # Cursos {#sec-cursos .unnumbered}
 
+-   2023--2024, Olimpíada Matemática Argentina, *Taller de simulación Montecarlo: Probabilidades, Estadística y Modelización*.
+
+-   2023--2024, Universidad de Favaloro, [Diplomatura en Inteligencia Artificial aplicada a la Medicina: *Introducción a la Ciencia de Datos y al Aprendizaje Automático.*](https://www.favaloro.edu.ar/informacion/ingIAAM_diplomatura-en-inteligencia-artificial-aplicada-a-la-medicina/)
+
 -   2023, INAP, [Curso de Capacitación: *Introducción al razonamiento con datos.*](https://capacitacion.inap.gob.ar/beca/curso-introduccion-al-razonamiento-con-datos-in40010-23/)
+
 -   2023, Universidad La Gran Colombia, Colombia, Taller de Capacitación: *MateOrigami, una propuesta de Modelación Matemática con material concreto para profesores de matemática en formación.*
+
 -   2018--2020, DET ME, Curso de Capacitación: *Producción de materiales para la enseñanza.*
+
 -   2020--2021, IUPFA, Curso corto: *Tratamiento de datos en \[y para\] la gestión universitaria.*, Programa de Actualización Profesional.
+
 -   2018--2020, MINEDUC, Guatemala, Programa de Capacitación: *Matemáticas: situaciones de aprendizaje con tecnología*, Profesor invitado. [Autoría y edición de libro asociado al proyecto](https://www.academia.edu/57337739/Manual_del_Docente_Matematicas_Situaciones_de_Aprendizaje_con_calculadora_cientifica).
+
 -   2020, DGFM MINEDUC, Bolivia, Curso: *La calculadora como herramienta de apoyo en las clases virtuales de Matemática.*, Capacitadora internacional para el Programa virtual de Formación de Maestros.
+
 -   2018--2019, DGEGE ME, Curso de Formación: *Uso de la calculadora gráfica en el Programa del Diploma IB.*
 
 # Congresos y conferencias {#sec-congresos .unnumbered}
+
+- 2024, Argentina, Daniela Parada. *Inferencia robusta en el modelo de regresión funcional cuadrático: próximos pasos*. Jornadas de investigación en temas de Estadística Matemática, FCEyN UBA, Buenos Aires.
+
+- 2024, Argentina, Daniela Parada; et al. *De la predicción a la transformación digital: Ciencia de Datos para optimizar recursos en una empresa mayorista del mercado argentino*. Webinar WiDS, FIUBA, Buenos Aires.
+
+- 2024, Guatemala, Daniela Parada. *Más allá de calcular: tecnologías para el aprendizaje de la matemática*. Conferencia inaugural en Intercampus Matemática y Física, Universidad Raúl Landívar, Verapaz. 
 
 - 2023, Chile, Castro, Rodrigo; et al. *Herramientas de ciencia de datos y simulación desarrolladas en universidades públicas para apoyar la toma de decisiones de respuesta al COVID-19 en Argentina*. Presentación al IFORS Prize en XXIII IFORS, Santiago de Chile.
   

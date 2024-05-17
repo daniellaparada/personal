@@ -9,48 +9,56 @@ En la actualidad, dicto clases en grado y en posgrado en Exactas-UBA.
 
 ## Grado 
 
-- [UBA FCEyN, Jefe de Trabajos Prácticos](https://web.dm.uba.ar/index.php/institucional/integrantes/jtp/teacher/parada-dani), Departamento de Matemática
+- UDESA, Profesora: Estadística I.
 
-- [UDESA, Profesora](https://udesa.edu.ar/cuerpo-docente/daniela-parada): Estadística I
+- UBA FCEyN, Jefe de Trabajos Prácticos: materias del Departamento de Matemática.
 
-- UNIPE, Jefe de Trabajos Prácticos: Probabilidad y Estadística
+- UBA FCEyN, Ayudante de Primera: materias del Instituto de Cálculo y tutora del programa Ingresantes CBC Exactas para la Licenciatura en Ciencia de Datos.
 
-- UTDT, Auxiliar: Inferencia Estadística
+- UNIPE, Jefe de Trabajos Prácticos: Probabilidad y Estadística.
 
-- UBA FFyB, Ayudante de Primera: Matemática, Bioestadística
+- UTDT, Auxiliar: Inferencia Estadística.
 
-- UBA FCE, Ayudante de Primera: Álgebra, Análisis Matemático I
+- UBA FFyB, Ayudante de Primera: Matemática, Bioestadística.
 
-- UBA CBC, Ayudante de Primera y Ayudante de Segunda: Álgebra, Análisis Matemático
+- UBA FCE, Ayudante de Primera: Álgebra, Análisis Matemático I.
 
-- UNSAM EEyN, Jefe de Trabajos Prácticos: Análisis Matemático II
+- UBA CBC, Ayudante de Primera y Ayudante de Segunda: Álgebra, Análisis Matemático.
 
-- UNTREF Virtual: Elementos de Estadística y Matemática Financiera
+- UNSAM EEyN, Jefe de Trabajos Prácticos: Análisis Matemático II.
 
-- UMAI, Profesor contratado: Análisis Matemático para Biólogos
+- UNTREF Virtual: Elementos de Estadística y Matemática Financiera.
 
-- UNAJ, Profesor contratado: Curso de Preparación Universitaria
+- UMAI, Profesor contratado: Análisis Matemático para Biólogos.
 
-- UMET, Profesora consejera, Departamento Pedagógico
+- UNAJ, Profesor contratado: Curso de Preparación Universitaria.
 
-- IUPFA, Coordinadora: Curso de Ingreso a la Vida Universitaria
+- UMET, Profesora consejera, Departamento Pedagógico.
 
-- INSPT UTN, Profesor: Computación
+- IUPFA, Coordinadora: Curso de Ingreso a la Vida Universitaria.
 
-- IFTS 29, Profesora: Elementos del Análisis Matemático, Estadística y Probabilidades para el Desarrollo de Software
+- INSPT UTN, Profesor: Computación.
+
+- IFTS 29, Profesora: Elementos del Análisis Matemático, Estadística y Probabilidades para el Desarrollo de Software.
+
 
 ## Posgrado
 
-- UBA FCEyN, Profesora: Inferencia Estadística
+- UBA FCEyN, Profesora: [Inferencia Estadística](https://ic.fcen.uba.ar/PEM/page5.html).
 
 - UBA FCEyN, Auxiliar: 
+    - [Taller de Tesis](https://tallerdetesis1-2024.netlify.app/)
 
-    - Análisis de Datos Funcionales
+    - [Análisis Estadístico de Datos Funcionales](https://web.dm.uba.ar/index.php/component/content/article/130-materias-optativas-no-regulares/primer-cuatrimestre-de-2020/419-algebra-homologica-licenciatura-topicos-de-algebra-homologica-doctorado-2)
 
-    - Análisis Multivariado
+    - [Análisis Multivariado](http://cms.dm.uba.ar/academico/materias/1ercuat2021/analisis_multivariado_I/)
 
-    - Análisis de Datos Categóricos
+    - [Análisis de Datos Categóricos](https://www.ic.fcen.uba.ar/ceecs/carrera/plan-estudios/analisis-de-datos-categoricos)
 
-    - Técnicas de Visualización y Reducción de la Dimensión
+    - [Técnicas de Visualización y Reducción de la Dimensión](https://web.dm.uba.ar/index.php/component/content/article/130-materias-optativas-no-regulares/primer-cuatrimestre-de-2020/423-herramientas-de-visualizacion-de-datos-lic-tecnicas-de-reduccion-y-visualizacion-de-datos-doc)
 
-    - Elementos de Matemática
+    - [Elementos de Matemática](https://www.ic.fcen.uba.ar/ceecs/carrera/plan-estudios/elementos-matematica)
+    
+    - [Introducción al Análisis Multivariado](https://www.ic.fcen.uba.ar/ceecs/carrera/plan-estudios/introduccion-analisis-multivariado)
+    
+    - [Herramientas de Reducción de la Dimensión](https://ic.fcen.uba.ar/actividades-academicas/formacion/materias/herramientas-de-visualizacion-de-datos-lcd-2do-cuatrimestre-2024)

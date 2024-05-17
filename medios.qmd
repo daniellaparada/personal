@@ -15,6 +15,10 @@
 
 # Noticias y entrevistas
 
+- 2024, Webinar Women in Data Science, FIUBA: ["De la predicción a la transformación digital: Ciencia de Datos para optimizar recursos en una empresa mayorista del mercado argentino"](https://www.youtube.com/watch?v=gy75pxeF1Tc&ab_channel=Ingenier%C3%ADaUBA)
+
+- 2024, WiDS 2024: Mujeres en Ciencia de Datos, FIUBA: [WiDS Buenos Aires está organizado de forma independiente por la FIUBA con el objetivo de ser parte de la misión de aumentar la participación de las mujeres en la ciencia de datos y presentar a mujeres destacadas que realizan un trabajo sobresaliente.](https://www.fi.uba.ar/noticias/mujeres-en-ciencia-de-datos-2024)
+
 - 2023, Noticias del ICC, Buenos Aires. Nota: ["Reconocimiento internacional a investigadores argentinos por el desarrollo de herramientas computacionales para controlar la pandemia"](https://icc.fcen.uba.ar/reconocimiento-internacional-a-investigadores-argentinos-por-el-desarrollo-de-herramientas-computacionales-para-controlar-la-pandemia/).
 
 - 2023, Innova, Santiago de Chile. Nota: ["IFORS 2023 cierra con entrega de premios y plenaria sobre los desafíos de integrar Investigación Operativa a la gestión de recursos naturales"](https://portalinnova.cl/ifors-2023-cierra-con-entrega-de-premios-y-plenaria-sobre-los-desafios-de-integrar-investigacion-operativa-a-la-gestion-de-recursos-naturales/).

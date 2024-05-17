@@ -6,6 +6,8 @@
 
 # Consultoría estadística {#sec-consult .unnumbered}
 
+- 2024, Servicios Tecnológicos de Alto Nivel, IC y Fundación Infant, Buenos Aires, Investigadora a cargo (Responsable Principal: Guillermo Solovey). Estudio de la dinámica poblacional de la infección por Virus Sincicial Respiratorio (VSR) en la Región Metropolitana de Buenos Aires.
+
 - 2022--2023, Consultoría estadística, [MINCyT Desafío ImpaCT.AR N° 30](https://www.argentina.gob.ar/ciencia/sact/impactar/desafio-30), Buenos Aires, Científico de Datos. Utilización de la ciencia de datos como interdisciplina para explotar los datos vinculados a la diabetes para la toma de decisiones y la macrogestión basada en evidencia.
   
 - 2022--2023, Consultoría estadística, Convenio I+D, IC y Maxiconsumo, Buenos Aires, Científico de Datos. Pronósticos robustos de ventas para implementación en sistema interno de compras.
@@ -32,9 +34,11 @@
 
 # Editorial {#sec-edit .unnumbered}
 
+- 2024, Editora, Editorial Santillana, Buenos Aires. Matemática. Proyecto Matemática 5 y 6.
+
 - 2022--2023, Contenidista, DGEGE Ministerio de Educación, Educación a Distancia, Agencia de Aprendizaje a lo Largo de la Vida, Buenos Aires. Especialista en producción de materiales de Matemática. Contenidista del Trayecto de Formación Profesional [Operador Data Analytics](https://agenciadeaprendizaje.bue.edu.ar/curso/operador-en-analisis-de-datos/).
 
-- 2023, Editora, Editorial Santillana, Buenos Aires. Matemática. Proyecto [Matemática ¡Me gusta!](https://santillana.com.uy/matematica-me-gusta-2/).
+- 2023, Editora, Editorial Santillana, Buenos Aires. Matemática. Proyecto [Matemática ¡Me gusta!](https://www.digital.santillana.com.ar/library/filter?serie=%C2%A1Me%20gusta%21).
 
 - 2018--2023, Contenidista Audiovisual, UNTREF Virtual (grado), Buenos Aires. Curso de Inicio de Matemática, Elementos de Matemática y Estadística.
 
